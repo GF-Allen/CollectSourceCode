@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 ## 酷炫的自定义控件
 
 ### 自定义ListView类
